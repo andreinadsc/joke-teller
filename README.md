@@ -8,7 +8,7 @@
   <h3 align="center">Joke Teller</h3>
   <p align="center">
     <br />
-    <a href="https://andreinadsc.github.io/math-spring-game/">View Demo</a>
+    <a href="https://andreinadsc.github.io/joke-teller/">View Demo</a>
     ·
     <a href="https://github.com/andreinadsc/math-spring-game/issues">Report Bug</a>
   </p>
