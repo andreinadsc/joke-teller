@@ -10,7 +10,7 @@
     <br />
     <a href="https://andreinadsc.github.io/joke-teller/">View Demo</a>
     ·
-    <a href="https://github.com/andreinadsc/math-spring-game/issues">Report Bug</a>
+    <a href="https://github.com/andreinadsc/joke-teller/issues">Report Bug</a>
   </p>
 </div>
 
